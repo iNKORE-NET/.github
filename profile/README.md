@@ -26,7 +26,7 @@
     You are welcomed to join our community to have fun, or simplly doing nothing!
 
 - 👨🏻‍🎨 Want to Contribute?
-- 
+
   - We do need and encourage community feedback and contributions.
   - If the project is not working properly, please file a report. We welcome any issues submitted on GitHub.
 
