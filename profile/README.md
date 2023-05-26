@@ -1,8 +1,10 @@
 ### Welcome to Inkore👋 Feel free to have a look
 
 - 🔭 Popular Projects
-  - [MCSkinn](https://github.com/InkoreStudios/MCSkinn) A modern Minecraft skin editor for Windows
-  - [Inkore.UI.WPF.Modern](https://github.com/InkoreStudios/Inkore.UI.WPF.Modern) Modern (Fluent 2) styles for WPF apps
+  - [MCSkinn](https://github.com/InkoreStudios/MCSkinn)
+    A modern Minecraft skin editor for Windows
+  - [Inkore.UI.WPF.Modern](https://github.com/InkoreStudios/Inkore.UI.WPF.Modern)
+    Modern (Fluent 2) styles for WPF apps
 
 - 💎 Our Team
   - [NotYoojun](https://www.github.com/NotYoojun) github.com/NotYoojun
