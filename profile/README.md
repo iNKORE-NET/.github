@@ -1,4 +1,4 @@
-### Welcome to Inkore 👋 Feel free to have a look
+### Welcome to iNKORE! 👋 Feel free to have a look
 
 - 🔭 Popular Projects
   - [MCSkinn](https://github.com/InkoreStudios/MCSkinn)
