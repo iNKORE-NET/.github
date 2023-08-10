@@ -13,8 +13,6 @@
 
 - ⚡Offical Website
   - <https://inkore.net/>
-  - <http://blog.animasterstudios.com/>
-  - <https://www.animasterstudios.com:81/>
   
     We are so sorry that the website is still under construction and some contents might be uncompleted.
     
