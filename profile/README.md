@@ -12,12 +12,12 @@
   - [Hehonge](https://www.github.com/Hehonge051) github.com/Hehonge051
 
 - ⚡Offical Website
-  - <http://www.animasterstudios.com/>
+  - <https://inkore.net/>
   - <http://blog.animasterstudios.com/>
   - <https://www.animasterstudios.com:81/>
   
-    We are so sorry that we are having trouble with out domain name. Our domain name temporily remains `http://www.animasterstudios.com` until April 11th, 2024, after which we will change our domain name. And if the first link doesn't work, try the second and the third one.
-
+    We are so sorry that the website is still under construction and some contents might be uncompleted.
+    
 - 🎏 Join the Community
   
   - Discord https://discord.gg/m6NPNVk4bs
