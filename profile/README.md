@@ -12,8 +12,6 @@
 <p align="center">Feel free to have a look!</p>
 <p align="center">In the deepest core, mine the greatest ore.</p>
 
-<br>
-
 # 🔭 Popular Projects
 
 - 🚩 **MCSkinn**: A modern Minecraft skin editor for Windows
