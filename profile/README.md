@@ -1,4 +1,6 @@
 
+<br>
+
 <p align="center">
   <a href="inkore.net" rel="noopener noreferrer">
     <img width="256" src="https://inkore.net/wp-content/uploads/2024/01/iNKORE_Title_NoSub_512px.png" alt="iNKORE Logo">
