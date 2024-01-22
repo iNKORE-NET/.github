@@ -58,7 +58,16 @@
 
 # 👨🏻‍🎨 Want to Contribute?
 
-- We do need and encourage community feedback and contributions.
+- We do need and encourage community feedback and contributions. If the project is not working properly, please file a report. We welcome any issues submitted on GitHub.
 
-- If the project is not working properly, please file a report. We welcome any issues submitted on GitHub.
+- Donations and sponsorship is also welcomed.
+  
+  - If you are in China Mainland, we have prepared the QRs of WeChat pay and Alipay, go to https://inkore.net/en-us/about/members/notyoojun/#sponsor
+ 
+  - Patreon: https://www.patreon.com/NotYoojun
+ 
+  - BuyMeACoffee: https://buymeacoffee.com/NotYoojun
+ 
+  - 爱发电：https://afdian.net/a/NotYoojun
 
+- Thanks for your love and support!
