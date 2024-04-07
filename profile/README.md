@@ -2,14 +2,14 @@
 
 <p align="center">
   <a href="inkore.net" rel="noopener noreferrer">
-    <img width="256" src="../assets/iNKORE_Title_512px.png" alt="iNKORE Logo">
+    <img width="256" src="https://github.com/iNKORE-Public/.github/blob/main/assets/iNKORE_Title_512px.png" alt="iNKORE Logo">
   </a>
 </p>
 
 ---
 
-<p align="center">Feel free to have a look!</p>
-<p align="center">In the deepest core, mine the greatest ore.</p>
+<p align="right">In the deepest core, mine the greatest ore.</p>
+<p align="right">Feel free to have a look!</p>
 
 # 🔭 Popular Projects
 
