@@ -1,8 +1,8 @@
 <br>
 
 <p align="center">
-  <a href="inkore.net" rel="noopener noreferrer">
-    <img width="256" src="https://github.com/iNKORE-Public/.github/blob/main/assets/iNKORE_Title_512px.png" alt="iNKORE Logo">
+  <a href="https://inkore.net/" rel="noopener noreferrer">
+    <img width="256" src="https://github.com/iNKORE-Public/.github/blob/main/assets/iNKORE_Title_512px.png?raw=true" alt="iNKORE Logo">
   </a>
 </p>
 
