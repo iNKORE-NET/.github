@@ -49,7 +49,7 @@
 -   QQ Group: https://jq.qq.com/?_wv=1027&k=KefGAM42
 -   QQ Channel: https://pd.qq.com/s/g3o1pmidm
 -   Telegram: http://t.me/iNKORE
--   Facebook: https://facebook.com/InkoreStudios
+-   Facebook: https://facebook.com/iNKORE.NET
 
     You are welcomed to join our community to have fun, or simplly doing nothing!
 
