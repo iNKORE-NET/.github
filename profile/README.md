@@ -12,19 +12,17 @@
 
 # 🔭 Projects & Products
 
-## 🧐 Utilities
+## 🕹️ Apps
 
-- 🚩 **Inkways**: Your best ink mate to work with
+- 🚩 **Inkways (WIP)**: Your best ink mate to work with 
 
   - Website: <https://inkore.net/products/inkways/>
 
-- 🚩 **MCSkinn**: A modern Minecraft skin editor
+- 🚩 **MCSkinn (WIP)**: A modern Minecraft skin editor
 
   - Website: <https://inkore.net/products/mcskinn/>
 
   - Repository: <https://github.com/iNKORE-NET/MCSkinn>
-
-## ✨ Gadgets
 
 - 🚩 **Symlinker**: A simple GUI tool with for creating symbolic links
 
@@ -33,8 +31,12 @@
 - 🚩 **Formulatte**: Minimalist math equation editor
 
   - Repository: <https://github.com/iNKORE-NET/Formulatte>
+  
+## 🎮 Games
 
-## 🧰 Developer Packs
+- We're currently not working on any games, but we have some ideas in mind. Stay tuned!
+
+## 🧰 Development Kits
 
 - 🚩 **UI.WPF.Modern**: Modern (Fluent 2) styles for WPF apps
 
@@ -44,23 +46,17 @@
 
   - Repository: <https://github.com/iNKORE-NET/UI.WinForms.Styler>
 
-# 💎 Our Team
+# 🏢 About us
 
-## 👨‍💻 Members
+## 💎 Our Team
 
-- [NotYoojun](https://www.github.com/NotYoojun)
+- **👨🏻‍💼 Members**: [NotYoojun](https://www.github.com/NotYoojun) - [PtCu](https://www.github.com/Hongshiits) - [Hehonge](https://www.github.com/Hehonge-onli)
 
-- [PtCu](https://www.github.com/Hongshiits)
+- **👨🏻‍💻 Partners**: [Aris](https://github.com/Aris-Offline)
 
-- [Hehonge](https://www.github.com/Hehonge-onli)
+## 🎏 Website & Community
 
-## Partners
-
-- [Aris](https://github.com/Aris-Offline)
-
-# 🎏 Website & Community
-
-- Website: <https://inkore.net/>
+- Website: <https://inkore.net>
 
 - Discord: <https://discord.gg/m6NPNVk4bs>
 
