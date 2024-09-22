@@ -82,6 +82,6 @@
 
   - BuyMeACoffee: <https://buymeacoffee.com/NotYoojun>
 
-  - 爱发电：<https://afdian.net/a/NotYoojun>
+  - 爱发电：<https://afdian.com/a/NotYoojun>
 
 - Thanks for your love and support!
