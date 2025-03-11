@@ -1,17 +1,23 @@
 <br>
 
 <p align="center">
+  <a href="https://www.inkore.net/" rel="noopener noreferrer">
+    <img width="256" src="https://github.com/iNKORE-NET/.github/blob/main/assets/images/iNKORE_Title.png?raw=true" alt="iNKORE Studios">
+  </a>
+</p>
+
+<!-- <p align="center">
     <a href="https://www.inkore.net/" target="_blank" rel="noopener">
     <picture>
         <source media="(prefers-color-scheme: dark)" alt="Inking Fantasies With Ores of Mysteries" srcset="https://github.com/iNKORE-NET/.github/blob/main/assets/images/slogan_dark.png" />
         <img width="360px" alt="Inking Fantasies With Ores of Mysteries" src="https://github.com/iNKORE-NET/.github/blob/main/assets/images/slogan_light.png" />
     </picture>
     </a>
-</p>
+</p> -->
 
 ---
 
-<p align="center">In the deepest core, mine the greatest ore.</p>
+<p align="center">Inking Fantasies With Ores of Mysteries..</p>
 
 # 🔭 Projects & Products
 
