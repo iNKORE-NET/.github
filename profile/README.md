@@ -1,9 +1,12 @@
 <br>
 
 <p align="center">
-  <a href="https://inkore.net/" rel="noopener noreferrer">
-    <img width="256" src="https://github.com/iNKORE-NET/.github/blob/main/assets/iNKORE_Title_512px.png?raw=true" alt="iNKORE Logo">
-  </a>
+    <a href="https://www.inkore.net/" target="_blank" rel="noopener">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" alt="Inking Fantasies With Ores of Mysteries" srcset="https://github.com/iNKORE-NET/.github/blob/main/assets/images/slogan_dark.png" />
+        <img alt="Inking Fantasies With Ores of Mysteries" src="https://github.com/iNKORE-NET/.github/blob/main/assets/images/slogan_light.png" />
+    </picture>
+    </a>
 </p>
 
 ---
