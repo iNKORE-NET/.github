@@ -14,15 +14,9 @@
 
 ## 🕹️ Apps
 
-- 🚩 **Inkways (WIP)**: Your best ink mate to work with 
+- 🚩 **Inkways (Work In Progress)**: Your best ink mate to work with 
 
-  - Website: <https://inkore.net/products/inkways/>
-
-- 🚩 **MCSkinn (WIP)**: A modern Minecraft skin editor
-
-  - Website: <https://inkore.net/products/mcskinn/>
-
-  - Repository: <https://github.com/iNKORE-NET/MCSkinn>
+- 🚩 **MCSkinn (Work In Progress)**: Voxel (like Minecraft) Skin & Texture Editor
 
 - 🚩 **Symlinker**: A simple GUI tool with for creating symbolic links
 
