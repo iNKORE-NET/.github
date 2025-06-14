@@ -51,17 +51,13 @@
 
 # 🏢 About us
 
-## 💎 Our Team
-
-- **👨🏻‍💼 Members**: [NotYoojun](https://www.github.com/NotYoojun) - [PtCu](https://www.github.com/Hongshiits) - [Hehonge](https://www.github.com/Hehonge-onli)
-
-- **👨🏻‍💻 Partners**: [Aris](https://github.com/Aris-Offline)
-
 ## 🎏 Website & Community
 
 - Website: <https://www.inkore.net>
 
-- Join the community: <https://www.inkore.net/community> (Rules & guidelines apply)
+- Join the community: <https://www.inkore.net/community>
+
+  *(Rules & guidelines apply)*
 
 # 👨🏻‍🎨 Want to Contribute?
 
