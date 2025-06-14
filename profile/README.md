@@ -59,19 +59,9 @@
 
 ## 🎏 Website & Community
 
-- Website: <https://inkore.net>
+- Website: <https://www.inkore.net>
 
-- Discord: <https://discord.gg/m6NPNVk4bs>
-
-- QQ Group: <https://jq.qq.com/?_wv=1027&k=KefGAM42>
-
-- QQ Channel: <https://pd.qq.com/s/g3o1pmidm>
-
-- Telegram: <http://t.me/iNKORE>
-
-- Facebook: <https://facebook.com/iNKORE.NET>
-
-> You are welcomed to join our community to have fun, or simplly doing nothing!
+- Join the community: <https://www.inkore.net/community> (Rules & guidelines apply)
 
 # 👨🏻‍🎨 Want to Contribute?
 
