@@ -59,6 +59,8 @@
 
   *(Rules & guidelines apply)*
 
+Affiliated organizations: [@MCSkinn](https://github.com/MCSkinn) [@Inkways](https://github.com/Inkways)
+
 # 👨🏻‍🎨 Want to Contribute?
 
 - We do need and encourage community feedback and contributions. If the project is not working properly, please file a report. We welcome any issues submitted on GitHub.
